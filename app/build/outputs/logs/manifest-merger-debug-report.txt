@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f7eb4ff31a1eaed5c08a37fbd11a3428/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/88870f64dfc73e539e8227603e294325/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1dae966e4a90610194e8f1dd67ae0935/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6ecb9283822585a0a9706d75e422fc53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/a67eeaae27bf24ec689560a3e8bb0f20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/641688507926459b286e14052d675640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c4858526f76b7b7c85ebcb40965d3613/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1a2d5d3e875684082f495a9ae1835824/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e39805a89c333387dfd36a610d5f610d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7897cc7e84442628515de1ed02173a34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fa4571307116bc3a80a40bc9de425b44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/17fdf3777cb82366ebf4205681f12c7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cdb98b0d56a9de58c87fc0ee64dcd8ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2505135e178f0f25237b142f881678dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/db373fef99225abbb2679e0d14f1bc96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b9413b804dbe2546939342a653e701c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/75cd25d338301f5995aad2e78f5458e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7d29cb12f272fd32bb1fea99b65726f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1b531f65026cb361c450f862f972bc7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0b0326727f8dd9d4ac06aa7de6931011/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f18f88453dd842da68c823f2a3c9a810/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8a10103a8729962a403412842f40e00/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c93a89af276471139c0751b712e05ec4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/af8b5b857dbf59eb385b43b0fdb6d8fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7ae56e8773bbc6abe11b69716d5abd4a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a3bd246d2018e97e104b4d946ef5d79f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bb849f5dda4df98668ce4546809298a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d4d3a704d4c92d7e4295cf6a4028929f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6a64d01a6f36b01bef754d4d66c17b4a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/40458c3680d2fcf3ab31da14ed307ed6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bde3f9afe46a17a7c272aa9e75b810b3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/aebaa6ea9005e0afbf60dac71a03d5cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/25b06a02117ef82f42a889d2ad7092d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15d84b702ce730984fa5de6a5fa62e08/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/2228da47bd2991ff8d84b00b6758fd0d/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f7eb4ff31a1eaed5c08a37fbd11a3428/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f7eb4ff31a1eaed5c08a37fbd11a3428/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1dae966e4a90610194e8f1dd67ae0935/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1dae966e4a90610194e8f1dd67ae0935/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8a10103a8729962a403412842f40e00/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8a10103a8729962a403412842f40e00/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c93a89af276471139c0751b712e05ec4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c93a89af276471139c0751b712e05ec4/AndroidManifest.xml:22:5-23:19
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/2228da47bd2991ff8d84b00b6758fd0d/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/2228da47bd2991ff8d84b00b6758fd0d/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8a10103a8729962a403412842f40e00/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f7eb4ff31a1eaed5c08a37fbd11a3428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f7eb4ff31a1eaed5c08a37fbd11a3428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/88870f64dfc73e539e8227603e294325/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/88870f64dfc73e539e8227603e294325/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1dae966e4a90610194e8f1dd67ae0935/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1dae966e4a90610194e8f1dd67ae0935/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6ecb9283822585a0a9706d75e422fc53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6ecb9283822585a0a9706d75e422fc53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/a67eeaae27bf24ec689560a3e8bb0f20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/a67eeaae27bf24ec689560a3e8bb0f20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/641688507926459b286e14052d675640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/641688507926459b286e14052d675640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c4858526f76b7b7c85ebcb40965d3613/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c4858526f76b7b7c85ebcb40965d3613/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1a2d5d3e875684082f495a9ae1835824/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1a2d5d3e875684082f495a9ae1835824/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e39805a89c333387dfd36a610d5f610d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e39805a89c333387dfd36a610d5f610d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7897cc7e84442628515de1ed02173a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7897cc7e84442628515de1ed02173a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fa4571307116bc3a80a40bc9de425b44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fa4571307116bc3a80a40bc9de425b44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/17fdf3777cb82366ebf4205681f12c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/17fdf3777cb82366ebf4205681f12c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cdb98b0d56a9de58c87fc0ee64dcd8ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cdb98b0d56a9de58c87fc0ee64dcd8ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2505135e178f0f25237b142f881678dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2505135e178f0f25237b142f881678dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/db373fef99225abbb2679e0d14f1bc96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/db373fef99225abbb2679e0d14f1bc96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b9413b804dbe2546939342a653e701c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b9413b804dbe2546939342a653e701c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/75cd25d338301f5995aad2e78f5458e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/75cd25d338301f5995aad2e78f5458e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7d29cb12f272fd32bb1fea99b65726f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7d29cb12f272fd32bb1fea99b65726f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1b531f65026cb361c450f862f972bc7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1b531f65026cb361c450f862f972bc7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0b0326727f8dd9d4ac06aa7de6931011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0b0326727f8dd9d4ac06aa7de6931011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f18f88453dd842da68c823f2a3c9a810/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f18f88453dd842da68c823f2a3c9a810/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8a10103a8729962a403412842f40e00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8a10103a8729962a403412842f40e00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c93a89af276471139c0751b712e05ec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c93a89af276471139c0751b712e05ec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/af8b5b857dbf59eb385b43b0fdb6d8fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/af8b5b857dbf59eb385b43b0fdb6d8fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7ae56e8773bbc6abe11b69716d5abd4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7ae56e8773bbc6abe11b69716d5abd4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a3bd246d2018e97e104b4d946ef5d79f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a3bd246d2018e97e104b4d946ef5d79f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bb849f5dda4df98668ce4546809298a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bb849f5dda4df98668ce4546809298a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d4d3a704d4c92d7e4295cf6a4028929f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d4d3a704d4c92d7e4295cf6a4028929f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6a64d01a6f36b01bef754d4d66c17b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6a64d01a6f36b01bef754d4d66c17b4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/40458c3680d2fcf3ab31da14ed307ed6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/40458c3680d2fcf3ab31da14ed307ed6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bde3f9afe46a17a7c272aa9e75b810b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bde3f9afe46a17a7c272aa9e75b810b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/aebaa6ea9005e0afbf60dac71a03d5cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/aebaa6ea9005e0afbf60dac71a03d5cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/25b06a02117ef82f42a889d2ad7092d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/25b06a02117ef82f42a889d2ad7092d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15d84b702ce730984fa5de6a5fa62e08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15d84b702ce730984fa5de6a5fa62e08/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/2228da47bd2991ff8d84b00b6758fd0d/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/SirLancelot/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/2228da47bd2991ff8d84b00b6758fd0d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SirLancelot/python-virtual-environments/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
